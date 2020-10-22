@@ -1,0 +1,41 @@
+192.168.0.183 - - [15/Oct/2020 11:04:41] "GET / HTTP/1.1" 301 -
+192.168.0.183 - - [15/Oct/2020 11:04:41] "GET /index.html HTTP/1.1" 200 -
+192.168.0.183 - - [15/Oct/2020 11:04:42] "GET /stream.mjpg HTTP/1.1" 200 -
+192.168.0.183 - - [18/Oct/2020 08:00:04] "GET /index.html HTTP/1.1" 200 -
+192.168.0.183 - - [18/Oct/2020 08:00:04] "GET /stream.mjpg HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('192.168.0.183', 55089): [Errno 32] Broken pipe
+WARNING:root:Removed streaming client ('192.168.0.183', 55091): [Errno 104] Connection reset by peer
+192.168.0.122 - - [18/Oct/2020 08:01:03] "GET / HTTP/1.1" 301 -
+192.168.0.122 - - [18/Oct/2020 08:01:03] "GET /index.html HTTP/1.1" 200 -
+192.168.0.122 - - [18/Oct/2020 08:01:03] "GET /stream.mjpg HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('192.168.0.122', 65532): [Errno 32] Broken pipe
+127.0.0.1 - - [18/Oct/2020 08:06:28] "GET / HTTP/1.1" 301 -
+127.0.0.1 - - [18/Oct/2020 08:06:28] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:06:28] "GET /stream.mjpg HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('127.0.0.1', 57336): [Errno 104] Connection reset by peer
+127.0.0.1 - - [18/Oct/2020 08:06:59] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:07:01] code 404, message Not Found
+127.0.0.1 - - [18/Oct/2020 08:07:01] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [18/Oct/2020 08:07:03] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:07:03] "GET /stream.mjpg HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('127.0.0.1', 57352): [Errno 32] Broken pipe
+127.0.0.1 - - [18/Oct/2020 08:07:23] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:07:24] "GET /stream.mjpg HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:07:35] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:07:36] "GET /stream.mjpg HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('127.0.0.1', 57360): [Errno 32] Broken pipe
+WARNING:root:Removed streaming client ('127.0.0.1', 57368): [Errno 104] Connection reset by peer
+127.0.0.1 - - [18/Oct/2020 08:08:28] code 404, message Not Found
+127.0.0.1 - - [18/Oct/2020 08:08:28] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [18/Oct/2020 08:08:31] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:08:31] "GET /stream.mjpg HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:08:32] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:08:32] "GET /stream.mjpg HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('127.0.0.1', 57380): [Errno 32] Broken pipe
+127.0.0.1 - - [18/Oct/2020 08:08:44] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:08:44] "GET /stream.mjpg HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2020 08:08:46] "GET /index.html HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('127.0.0.1', 57388): [Errno 104] Connection reset by peer
+127.0.0.1 - - [18/Oct/2020 08:08:46] "GET /stream.mjpg HTTP/1.1" 200 -
+WARNING:root:Removed streaming client ('127.0.0.1', 57404): [Errno 32] Broken pipe
+WARNING:root:Removed streaming client ('127.0.0.1', 57396): [Errno 32] Broken pipe
